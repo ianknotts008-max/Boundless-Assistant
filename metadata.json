@@ -1,0 +1,8 @@
+{
+  "name": "Boundless: An Assistant only confined by the imagination",
+  "description": "An AI assistant that unifies chat, research, and generation capabilities into a single, intuitive interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
